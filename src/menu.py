@@ -5,7 +5,7 @@ from task_manager import (
     mark_done
 )
 def menu ():
-    print("***To Do List ***" )
+    print(" To Do List " )
     print("1.Add task")
     print("2.view task")
     print("3.Remove Task")
